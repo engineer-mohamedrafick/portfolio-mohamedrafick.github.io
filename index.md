@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Mechanical Engineer
 ---
-
-### Mechanical Engineer
 
 Welcome to my professional portfolio.
 
@@ -13,5 +12,5 @@ Mechanical Engineer with demonstrated experience in engineering projects, contin
 (Resume will be added here)
 
 ## Contact
-Email: engineer.rafick@gmail.com
+Email: engineer.rafick@gmail.com  
 LinkedIn: (add later)
