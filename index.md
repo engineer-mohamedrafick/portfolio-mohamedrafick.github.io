@@ -17,7 +17,7 @@ Mechanical Engineer with demonstrated experience in engineering projects, contin
 ## Skills
 
 <details>
-<summary><strong> Core Strengths</strong></summary>
+<summary><strong>Core Strengths</strong></summary>
 
 <label>Mechanical Design</label>
 <progress value="85" max="100"></progress>
@@ -36,9 +36,8 @@ Mechanical Engineer with demonstrated experience in engineering projects, contin
 
 </details>
 
----
-
-### Additional Skills
+<details>
+<summary><strong>Additional Skills</strong></summary>
 
 <details>
 <summary><strong>Mechanical Engineering</strong></summary>
@@ -78,6 +77,8 @@ Mechanical Engineer with demonstrated experience in engineering projects, contin
 - Continuous Learning  
 - Team Collaboration  
 - Communication Skills  
+
+</details>
 
 </details>
 
