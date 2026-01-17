@@ -1,3 +1,11 @@
 theme: minima
 title: Mohamed Rafick S
 description: Mechanical Engineer | Professional Portfolio
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      css: "/assets/css/custom.css"
