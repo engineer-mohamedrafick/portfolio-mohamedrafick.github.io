@@ -16,7 +16,9 @@ Mechanical Engineer with demonstrated experience in engineering projects, contin
 
 ## Skills
 
-### Core Strengths
+<details>
+<summary><strong> Core Strengths</strong></summary>
+
 <label>Mechanical Design</label>
 <progress value="85" max="100"></progress>
 
@@ -31,6 +33,8 @@ Mechanical Engineer with demonstrated experience in engineering projects, contin
 
 <label>MS Excel (Engineering Analysis)</label>
 <progress value="85" max="100"></progress>
+
+</details>
 
 ---
 
