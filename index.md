@@ -5,6 +5,8 @@ title: Mechanical Engineer
 
 Welcome to my professional portfolio.
 
+---
+
 ## About Me
 Hi, I’m Mohamed Rafick  
 
