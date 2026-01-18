@@ -1,6 +1,6 @@
 ---
 layout: home
-title: <!--Mechanical Engineer-->
+title: Mechanical Engineer <!-- -->
 ---
 
 Welcome to my professional portfolio.
