@@ -1,7 +1,9 @@
 ---
 layout: home
-title: Welcome to my professional portfolio.
+title: Mohamed Rafick
 ---
+
+Welcome to my professional portfolio.
 
 ## About Me
 Hi, I’m Mohamed Rafick  
