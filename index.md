@@ -172,4 +172,4 @@ Open to discussions on **product engineering, automation, engineering leadership
 
 ## Contact
 Email: engineer.rafick@gmail.com  
-LinkedIn: (add later)
+LinkedIn: https://www.linkedin.com/in/mohamed-rafick-s
