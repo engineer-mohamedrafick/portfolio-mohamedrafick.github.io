@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Mohamed Rafick
+title: Mechanical Engineer
 ---
 
 Welcome to my professional portfolio.
