@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Mechanical Engineer <!-- -->
+title: Mechanical Engineer
 ---
 
 Welcome to my professional portfolio.
 
 ## About Me
-Hi, I’m Mohamed Rafick 👋  
+Hi, I’m Mohamed Rafick  
 
 I’m a Senior Mechanical & Product Engineer with 8+ years of experience in global MNC environments, delivering engineering solutions across the full product lifecycle—from concept, design, and validation to manufacturing, quality, and continuous improvement.
 
@@ -14,7 +14,7 @@ My professional strength lies in combining **core mechanical engineering fundame
 
 ---
 
-## 🧭 Professional Focus
+## Professional Focus
 - Product engineering & DFMA-driven design
 - Engineering automation and productivity improvement
 - Data-driven decision-making for quality & manufacturing
@@ -23,7 +23,7 @@ My professional strength lies in combining **core mechanical engineering fundame
 
 ---
 
-## 🛠 Core Technical Expertise
+## Core Technical Expertise
 - **Mechanical & Product Engineering**
   - DFMA, DTV, reverse engineering
   - GD&T (Certified) and tolerance stack-up analysis
@@ -46,7 +46,7 @@ My professional strength lies in combining **core mechanical engineering fundame
 
 ---
 
-## 🚀 Why This GitHub Exists
+## Why This GitHub Exists
 This GitHub serves as my **professional knowledge base and engineering portfolio**.
 
 Here, I share:
@@ -60,7 +60,7 @@ All projects are presented using **license-free, non-confidential datasets, mode
 
 ---
 
-## 🏆 What You’ll Find Beyond Code
+## What You’ll Find Beyond Code
 This profile also highlights:
 - Professional certifications and technical credentials
 - Key engineering and automation projects
@@ -70,13 +70,15 @@ This profile also highlights:
 
 ---
 
-## 🎯 Engineering Philosophy
+## Engineering Philosophy
 I believe modern engineers must go beyond tools and drawings.  
 True impact happens when **engineering, data, automation, and governance** work together to create systems that scale.
 
 This profile reflects that mindset.
 
-📫 Open to discussions on **product engineering, automation, engineering leadership, and scalable systems**. 
+Open to discussions on **product engineering, automation, engineering leadership, and scalable systems**. 
+
+---
 
 ## Key Achievements
 - Successfully contributed to engineering projects with measurable outcomes
