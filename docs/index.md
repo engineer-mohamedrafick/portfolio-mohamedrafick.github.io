@@ -4,7 +4,7 @@ layout: home
 title: Mechanical Engineer
 ---
 
-<link>
+<link
 
 Hi, I’m Mohamed Rafick  
 
@@ -190,3 +190,4 @@ Download Resume (PDF)
 Email: engineer.rafick@gmail.com  
 LinkedIn: https://www.linkedin.com/in/mohamed-rafick-s
 ``
+>
