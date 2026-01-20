@@ -4,6 +4,8 @@ layout: home
 title: Mechanical Engineer
 ---
 
+{{
+
 Hi, I’m Mohamed Rafick  
 
 I’m a Senior Mechanical & Product Engineer with 8+ years of experience in global MNC environments, delivering engineering solutions across the full product lifecycle—from concept, design, and validation to manufacturing, quality, and continuous improvement.
