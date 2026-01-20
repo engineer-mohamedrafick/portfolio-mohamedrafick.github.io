@@ -1,6 +1,6 @@
 /* Temporary test to verify CSS loads */
 body {
-  background: yellow !important;
+  background: #fdfdfd; /* clean light background */
 }
 
 /* Header (Minima override) */
