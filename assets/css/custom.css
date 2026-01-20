@@ -1,5 +1,7 @@
+
 .timeline {
-  border-left: 3px solid #007ACC; /* vertical line */
+  border-left: 4px solid transparent;
+  background: linear-gradient(#6366F1, #EC4899) left/4px 100% no-repeat;
   padding-left: 20px;
   margin-left: 10px;
 }
@@ -7,24 +9,25 @@
 .timeline-item {
   margin-bottom: 20px;
   position: relative;
+  padding: 10px 15px;
+  background: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
 }
 
 .timeline-item::before {
   content: '';
   position: absolute;
-  left: -11px; /* aligns with border */
-  top: 5px;
-  width: 10px;
-  height: 10px;
-  background-color: #007ACC;
+  left: -14px;
+  top: 12px;
+  width: 12px;
+  height: 12px;
+  background: linear-gradient(135deg, #6366F1, #EC4899);
   border-radius: 50%;
 }
 
 .timeline-item h4 {
   margin: 0 0 5px 0;
-  color: #007ACC;
-}
-
-.timeline-item p {
-  margin: 0 0 10px 0;
+  color: #6366F1;
+  font-weight: bold;
 }
