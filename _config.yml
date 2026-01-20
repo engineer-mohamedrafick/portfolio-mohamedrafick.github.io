@@ -2,6 +2,5 @@ theme: minima
 title: Mohamed Rafick S
 description: Mechanical Engineer | Professional Portfolio
 
-# Optional, but good defaults
 markdown: kramdown
 highlighter: rouge
